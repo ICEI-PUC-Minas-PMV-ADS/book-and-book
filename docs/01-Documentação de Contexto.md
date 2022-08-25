@@ -45,3 +45,6 @@ Contudo, através da internet, é possível levar uma ferramenta para um número
 O projeto Book&Book é uma iniciativa aberta a todos aqueles que se interessam por leitura e desejam ter acesso a mais livros de forma viável e acessível, sem restrição econômica ou geográfica, através do amplo acesso pela internet e de maneira simples.
 
 Através de uma interface simples e intuitiva, o usuário deve ser capaz de acessar e utilizar das funcionalidades do site de maneira acessível a todos.
+
+> **Referências**:
+> - Instituto Pró-Livro e Itaú Cultural. Retratos da leitura no Brasil. 5ª edição. 2020. Disponível em: https://www.prolivro.org.br/wp-content/uploads/2020/12/5a_edicao_Retratos_da_Leitura-_IPL_dez2020-compactado.pdf._ Acessado em 23/08/2022.
